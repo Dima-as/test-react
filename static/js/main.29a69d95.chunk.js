@@ -1,0 +1,2 @@
+(this["webpackJsonptest-react"]=this["webpackJsonptest-react"]||[]).push([[0],{3:function(s,e,t){"use strict";t.r(e);t(4);var c=t(0),n=Object(c.jsx)("span",{children:"hello"}),r=Object(c.jsx)("span",{children:"world"}),i=Object(c.jsxs)("div",{children:[n,r]});console.log(i)}},[[3,1,2]]]);
+//# sourceMappingURL=main.29a69d95.chunk.js.map
